@@ -1,0 +1,15 @@
+/home/evgen/prog/gbDeveloper/choosing_specialization/bin/Debug/net6.0/choosing_specialization
+/home/evgen/prog/gbDeveloper/choosing_specialization/bin/Debug/net6.0/choosing_specialization.deps.json
+/home/evgen/prog/gbDeveloper/choosing_specialization/bin/Debug/net6.0/choosing_specialization.runtimeconfig.json
+/home/evgen/prog/gbDeveloper/choosing_specialization/bin/Debug/net6.0/choosing_specialization.dll
+/home/evgen/prog/gbDeveloper/choosing_specialization/bin/Debug/net6.0/choosing_specialization.pdb
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.csproj.AssemblyReference.cache
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.AssemblyInfoInputs.cache
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.AssemblyInfo.cs
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.csproj.CoreCompileInputs.cache
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.dll
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/refint/choosing_specialization.dll
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.pdb
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/choosing_specialization.genruntimeconfig.cache
+/home/evgen/prog/gbDeveloper/choosing_specialization/obj/Debug/net6.0/ref/choosing_specialization.dll
